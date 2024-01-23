@@ -1,6 +1,6 @@
 ```bash
 git config --local user.name "Think Forward"
 git config --local user.email "founders@thinkforward.com.br"
-git remote add origin https://think_forward@gitlab.com/thinkfwd/thinkcrm/web.git
+git remote add origin https://think-fwd@github.com/think-fwd/think-frontend-boilerplate.git
 ```
 
